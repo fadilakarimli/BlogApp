@@ -1,0 +1,1 @@
+ALTER TABLE "PostTranslation" ADD COLUMN "readTimeMinutes" INTEGER NOT NULL DEFAULT 4;
